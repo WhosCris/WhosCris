@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hola,%20Soy%20Cris&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Backend%20Developer%20%7C%20Software%20Architecture&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hola,%20Soy%20Cris&fontColor=ffffff&fontSize=42&fontAlignY=34&animation=fadeIn&desc=Ingenier%C3%ADa%20en%20Inform%C3%A1tica%20%7C%20Backend%20Developer&descSize=20&descAlignY=65" width="100%" />
 
 <!-- Texto animado tipo "typewriter", tono profesional y directo -->
 <a href="https://github.com/WhosCris">
