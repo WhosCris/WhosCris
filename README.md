@@ -108,22 +108,7 @@ Plataforma web SaaS para restaurantes que permite administrar **menús digitales
 ---
 
 ## 📫 Contacto
-
-<div align="center">
-
-<img src="[https://img.shields.io](https://github.com/WhosCris)/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="cris.ibarra.211@gmail.com/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://www.linkedin.com/in/cristian-ibarra-a459bb22b//badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-<!-- Reemplaza los enlaces (#) por tus URLs reales de contacto -->
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<div align="center"> <!-- Cada badge va envuelto en un <a href="..."> con la URL real de contacto. El <img> solo dibuja el badge (shields.io); el <a> es lo que lo hace clickeable. Antes el link real estaba metido dentro del "src" del <img>, por eso no cargaba el icono. --> <a href="https://github.com/WhosCris"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:cris.ibarra.211@gmail.com"> <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/cristian-ibarra-a459bb22b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 <sub>⭐ Gracias por visitar mi perfil</sub>
 
