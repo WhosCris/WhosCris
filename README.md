@@ -111,9 +111,9 @@ Plataforma web SaaS para restaurantes que permite administrar **menús digitales
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="[https://img.shields.io](https://github.com/WhosCris)/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="cris.ibarra.211@gmail.com/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://www.linkedin.com/in/cristian-ibarra-a459bb22b//badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <!-- Reemplaza los enlaces (#) por tus URLs reales de contacto -->
 
