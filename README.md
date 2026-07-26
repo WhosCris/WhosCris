@@ -1,14 +1,12 @@
 <!--
   README.md — Perfil de GitHub de WhosCris
-  Estilo: minimalista, oscuro, profesional.
-  Nota: reemplaza "WhosCris" en las URLs de stats/streak si usas otro username.
 -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hola,%20Soy%20Cris&fontColor=ffffff&fontSize=42&fontAlignY=34&animation=fadeIn&desc=Ingenier%C3%ADa%20en%20Inform%C3%A1tica%20%7C%20Backend%20Developer&descSize=20&descAlignY=65" width="100%" />
 
-<!-- Texto animado tipo "typewriter", tono profesional y directo -->
+<!-- Texto animado-->
 <a href="https://github.com/WhosCris">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9A9F5&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+en+Inform%C3%A1tica+%7C+%C3%9Altimo+a%C3%B1o;Backend+%2F+Node.js+%2F+MongoDB;Construyendo+TuCarta3D+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -19,8 +17,6 @@
 
 <!--
   Sección "About Me"
-  Uso una tabla de 2 columnas (sin bordes) para alinear texto a la izquierda
-  y un detalle visual (GIF) a la derecha sin romper el ancho del README.
 -->
 <table>
 <tr>
@@ -40,7 +36,7 @@ Actualmente estoy afianzando mis bases en **Linux**, **DevOps** y **Cloud Comput
 </td>
 <td width="35%" align="center">
 
-<!-- Detalle visual alineado a la derecha, no rompe el layout en mobile gracias al width % -->
+<!--alineacion a la derecha-->
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="120"/>
 
 </td>
@@ -51,7 +47,7 @@ Actualmente estoy afianzando mis bases en **Linux**, **DevOps** y **Cloud Comput
 
 ## 🛠️ Tech Stack
 
-<!-- Skill Icons: set oscuro y coherente, agrupado solo con tecnologías que realmente uso -->
+<!-- Skill Icons-->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,firebase,linux&theme=dark" />
 </div>
@@ -60,7 +56,7 @@ Actualmente estoy afianzando mis bases en **Linux**, **DevOps** y **Cloud Comput
 
 ## 📚 Currently Learning
 
-<!-- Stack en aprendizaje, separado del stack de trabajo para no confundir nivel de dominio -->
+<!-- Stack en aprendizaje-->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,docker&theme=dark" />
   <br/>
@@ -73,7 +69,6 @@ Actualmente estoy afianzando mis bases en **Linux**, **DevOps** y **Cloud Comput
 
 ## 🚀 Featured Project
 
-<!-- Proyecto destacado en formato "card" usando tabla, mantiene el ancho controlado -->
 <div align="center">
 
 ### 🍽️ TuCarta3D
@@ -91,9 +86,7 @@ Plataforma web SaaS para restaurantes que permite administrar **menús digitales
 ## 📊 GitHub Stats
 
 <!--
-  github-readme-stats + streak-stats: tema personalizado con paleta oscura/morada
-  para mantener coherencia visual con el resto del perfil.
--->
+  github-readme-stats + streak-stats-->
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=WhosCris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9A9F5&icon_color=A9A9F5&text_color=c9d1d9" />
@@ -106,9 +99,12 @@ Plataforma web SaaS para restaurantes que permite administrar **menús digitales
 </div>
 
 ---
-
+<!--Badget de contactos-->
 ## 📫 Contacto
-<div align="center"> <!-- Cada badge va envuelto en un <a href="..."> con la URL real de contacto. El <img> solo dibuja el badge (shields.io); el <a> es lo que lo hace clickeable. Antes el link real estaba metido dentro del "src" del <img>, por eso no cargaba el icono. --> <a href="https://github.com/WhosCris"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:cris.ibarra.211@gmail.com"> <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/cristian-ibarra-a459bb22b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<div align="center">--> 
+  <a href="https://github.com/WhosCris"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> 
+  <a href="mailto:cris.ibarra.211@gmail.com"> <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+  <a href="https://www.linkedin.com/in/cristian-ibarra-a459bb22b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 <sub>⭐ Gracias por visitar mi perfil</sub>
 
