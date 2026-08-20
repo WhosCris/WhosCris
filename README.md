@@ -94,8 +94,7 @@ Plataforma web SaaS para restaurantes que permite administrar **menús digitales
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=WhosCris&theme=tokyonight&hide_border=true&background=0d1117&ring=A9A9F5&fire=A9A9F5&currStreakLabel=A9A9F5" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WhosCris&theme=tokyonight&hide_border=true&background=0d1117&ring=A9A9F5&fire=A9A9F5&currStreakLabel=A9A9F5" /></div>
 
 ---
 <!--Badget de contactos-->
